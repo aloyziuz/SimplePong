@@ -1,0 +1,6 @@
+[NATSU:8, GRAY:11]
+[NARUTO:13, SASUKE:7]
+[HARU:15, MUSICA:12]
+[asdf:2, sdf:1]
+[naruto:0,  :14]
+[Sir Douchebag:4, Cartman:3]
